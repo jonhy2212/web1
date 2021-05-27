@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Pacifico&display=swap');
+body
+{
+    background-color: rgb(127, 255, 133);
+    
+}
+.Principal {
+    color: blue;
+    
+}
+#identificador {
+    color: crimson;
+    
+}
+
+{
+    font-family: Open+Sans;
+    
+}
+ol li:nth-child(3){
+    margin: 5px;
+    padding: 10px;
+    background-color: rebeccapurple;
+}
+h3{
+    margin: 5px;
+    padding: 10px;
+    background-color: cadetblue;
+    align-items: center;
